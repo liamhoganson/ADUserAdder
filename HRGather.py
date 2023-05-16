@@ -8,14 +8,14 @@ from nameparser import HumanName
 path = ("path_to_HR_New_Hire.xlsx")
 
 # distinguishedNames
-CSG = ("OU=Users,OU=Dept,OU=Comp,DC=DC,DC=DC")
-HCG = ("OU=Users,OU=Dept,OU=Comp,DC=DC,DC=DC")
-LCH = ("OU=Users,OU=Dept,OU=Comp,DC=DC,DC=DC")
-ICS = ("OU=Users,OU=Dept,OU=Comp,DC=DC,DC=DC")
-LCA = ("OU=Users,OU=Dept,OU=Comp,DC=DC,DC=DC")
-LSC = ("OU=Users,OU=Dept,OU=Comp,DC=DC,DC=DC")
-NBG = ("OU=Users,OU=Dept,OU=Comp,DC=DC,DC=DC")
-ESH = ("OU=Users,OU=Dept,OU=Comp,DC=DC,DC=DC")
+DEPT1 = ("OU=Users,OU=Dept,OU=Comp,DC=DC,DC=DC")
+DEPT2 = ("OU=Users,OU=Dept,OU=Comp,DC=DC,DC=DC")
+DEPT3 = ("OU=Users,OU=Dept,OU=Comp,DC=DC,DC=DC")
+DEPT4 = ("OU=Users,OU=Dept,OU=Comp,DC=DC,DC=DC")
+DEPT5 = ("OU=Users,OU=Dept,OU=Comp,DC=DC,DC=DC")
+DEPT6 = ("OU=Users,OU=Dept,OU=Comp,DC=DC,DC=DC")
+DEPT7 = ("OU=Users,OU=Dept,OU=Comp,DC=DC,DC=DC")
+DEPT8 = ("OU=Users,OU=Dept,OU=Comp,DC=DC,DC=DC")
 
 
 # Loads in New hires sheet as Pandas Dataframe
